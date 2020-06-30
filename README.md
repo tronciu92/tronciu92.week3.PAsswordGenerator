@@ -11,10 +11,10 @@ The criteria that the password is able to meet are:
 1.the password is between 8 - 128 characters long, 
 
 2.the password must have at least one of the following character types:
-  *lowercase characters
-  *uppercasse characters
-  *special characters
-  *numeric characters
+  ### lowercase characters
+  ### uppercasse characters
+  ### special characters
+  ### numeric characters
 
 Once the program has verified that the password length meets the minimum and maximum requirements, it then determines which criteria the user has selected and generates a secure password string based on the user's input. The new password is then displayed in the text area.
 
